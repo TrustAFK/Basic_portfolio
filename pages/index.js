@@ -56,7 +56,7 @@ export default function Home() {
             </h2>
             <h3 className="text-2xl py-2">Web Developer and Designer</h3>
             <p className="text-md text-gray-500 dark:text-gray-200 py-2">
-              Can't find any thing to write so i am writing this . join me below
+              Can not find any thing to write so i am writing this . join me below
               and lets get started !
             </p>
           </div>
