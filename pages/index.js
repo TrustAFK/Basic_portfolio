@@ -51,11 +51,11 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10">
-            <h2 className="text-2xl py-2 font-medium text-teal-500 md:text-5xl lg:text-6xl">
+            <h2 className="text-3xl py-2 font-medium text-teal-500 md:text-5xl lg:text-6xl">
               Tushar Gupta
             </h2>
-            <h3 className="text-xl py-2 md:text-2xl lg:text-3xl">Web Developer and Designer</h3>
-            <p className="text-md text-gray-500 dark:text-gray-200 py-2">
+            <h3 className="text-xl py-2 md:text-3xl lg:text-4xl">Web Developer and Designer</h3>
+            <p className="text-md text-gray-500 dark:text-gray-200 py-2 leading-8">
               Holla! a full time coder and an upcomming Engineer this side . Connect and explore with me!
             </p>
           </div>
@@ -74,8 +74,8 @@ export default function Home() {
             <Image layout="fill" objectFit="cover" src={Tushar} />
           </div>
         </section>
-
-        <section className=" py-5 dark:text-gray-200">
+<br />
+        <section className=" mt-5 dark:text-gray-200">
           <div>
             <h2 className="text-4xl font-medium py-3 dark:text-gray-200">
               Services I Offer
