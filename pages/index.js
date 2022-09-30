@@ -43,7 +43,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white rounded-md px-4 py-2 ml-8"
-                  href="#"
+                  href="https://www.instagram.com/trust_afk/"
                 >
                   Resume
                 </a>
@@ -51,13 +51,12 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10">
-            <h2 className="text-5xl py-2 font-medium text-teal-500 md:text-6xl ">
+            <h2 className="text-5xl py-2 font-medium text-teal-500 md:text-6xl sm:text-3xl">
               Tushar Gupta
             </h2>
             <h3 className="text-2xl py-2">Web Developer and Designer</h3>
             <p className="text-md text-gray-500 dark:text-gray-200 py-2">
-              Can not find any thing to write so i am writing this . join me below
-              and lets get started !
+              Holla! a full time coder and an upcomming Engineer this side . Connect and explore with me!
             </p>
           </div>
           <div className="flex justify-center gap-16 text-5xl text-gray-500 pt-5 dark:text-gray-300">
@@ -76,7 +75,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="dark:text-gray-200">
+        <section className=" py-5 dark:text-gray-200">
           <div>
             <h2 className="text-4xl font-medium py-3 dark:text-gray-200">
               Services I Offer
@@ -90,13 +89,13 @@ export default function Home() {
               and consumer use.
             </p>
             <p className="text-md font-medium text-gray-800 leading-7 dark:text-gray-200">
-              I offer from a wide range of services, including vrand design,
+              I offer from a wide range of services, including brand design,
               programming and teaching.
             </p>
           </div>
 
           <div className="md:flex gap-4 lg:flex gap-10">
-            <div className="shadow-lg p-10 rounded-xl text-center my-10 border-slate-400 dark:  shadow-cyan-500/50   ">
+            <div className="shadow-lg p-10 rounded-xl text-center my-10 border-slate-400 dark:shadow-cyan-500/50   ">
               <Image src={Design} width={100} height={100} />
               <h3 className="text-xl font-medium pt-8 pb-2">
                 Beautiful Design
@@ -112,7 +111,7 @@ export default function Home() {
               </p>
               <p className="text-gray-800 py-1 dark:text-gray-300">Figma</p>
             </div>
-            <div className="shadow-lg p-8 rounded-xl text-center my-10 dark:  shadow-cyan-500/50 ">
+            <div className="shadow-lg p-8 rounded-xl text-center my-10 dark:shadow-cyan-500/50 ">
               <Image src={Consulting} width={100} height={100} />
               <h3 className="text-xl font-medium pt-8 pb-2">
                 Beautiful Design
@@ -128,7 +127,7 @@ export default function Home() {
               </p>
               <p className="text-gray-800 py-1 dark:text-gray-300">Figma</p>
             </div>
-            <div className="shadow-lg p-8 rounded-xl text-center my-10 dark:  shadow-cyan-500/50 ">
+            <div className="shadow-lg p-8 rounded-xl text-center my-10 dark:shadow-cyan-500/50 ">
               <Image src={Code} width={100} height={100} />
               <h3 className="text-xl font-medium pt-8 pb-2">
                 Beautiful Design
